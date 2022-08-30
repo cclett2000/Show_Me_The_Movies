@@ -1,0 +1,13 @@
+Req Info: Image, Title, Description
+    - API name: poster_path, title, overview
+
+API Key (query string): a07e22bc18f5cb106bfe4cc1f83ad8ed
+
+Image Base URL: https://image.tmdb.org/t/p/w500/
+Base URL: https://api.themoviedb.org/3/movie/now_playing
+
+Notes:
+- is a JSON response
+
+Notes for Readme
+- I took so much time trying to fix a crash that was caused by not having an internet permission >:0
