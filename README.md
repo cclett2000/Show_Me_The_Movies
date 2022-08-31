@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 - [X] Implement orientation responsivity
   - App should neatly arrange data in both landscape and portrait mode
 - [X] Implement Glide to display placeholder graphics during loading
-  - <img src='https://github.com/cclett2000/Show_Me_The_Movies/blob/master/glide_placeholder_code_snip.PNG' title='Placeholder Graphics Code' width='' alt='Placeholder Graphics Code' />
+    <img src='https://github.com/cclett2000/Show_Me_The_Movies/blob/master/glide_placeholder_code_snip.PNG' title='Placeholder Graphics Code' width='' alt='Placeholder Graphics Code' />
 
 ## Video Walkthrough
 
