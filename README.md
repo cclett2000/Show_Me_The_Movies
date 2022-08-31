@@ -27,8 +27,8 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/cclett2000/Show_Me_The_Movies/blob/master/FlixsterAppDemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/). 
+<img src='https://github.com/cclett2000/Show_Me_The_Movies/blob/master/FlixsterAppDemo_Landscape.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+GIFs created with [LiceCap](http://www.cockos.com/licecap/). 
 
 ## Notes
 - I completely forgot that in order to reach the API I needed to give internet permissions
