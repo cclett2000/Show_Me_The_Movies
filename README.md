@@ -34,6 +34,8 @@ GIFs created with [LiceCap](http://www.cockos.com/licecap/).
 - I completely forgot that in order to reach the API I needed to give internet permissions
   - the amount of time spent trying to figure this out is embarassing (~3 hours)
 - Jackson is slower than Gson when it comes to JSON parsing on Android
+- In order to use the internet I had to set the permission in my manifest file
+  - this also took an embarassingly long time to figure out
 
 ## License
 
